@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "operators",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Welcome-to-solidity.sol": "WelcomeToSolidity"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Welcome-to-solidity.sol": {
+			"keccak256": "0x836514eb6ec1e2dd39b3b26a377cd412a376dad5fbf0eefd4100f9a2c60d8162",
+			"urls": [
+				"bzz-raw://4a9732c52ee5b699c7c7a5855d065c37cbf9151fd14e71f26824d963cf8d68c0",
+				"dweb:/ipfs/QmbTCjhmQ5SHHPwyMCkXzE95UpmXzUUKuFDdUdBWK4wt8S"
+			]
+		}
+	},
+	"version": 1
+}

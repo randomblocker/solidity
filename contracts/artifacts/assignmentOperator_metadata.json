@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "assign",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/logical operators.sol": "assignmentOperator"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/logical operators.sol": {
+			"keccak256": "0xc5eb6129e4d7c2dcc6b8f9f01c3a71911ec5eff9d5420bcf2f348be901ac8fa8",
+			"urls": [
+				"bzz-raw://d626c3f9b8c44c9cb2c1e8ea89c73c5bc334fe75f80537c55d827d2a7afb5a22",
+				"dweb:/ipfs/QmTyUeqoDyaqLibJ6keGLmNHbywbaSzWWGBpb1rq3tYefk"
+			]
+		}
+	},
+	"version": 1
+}
